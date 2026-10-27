@@ -1,4 +1,4 @@
-# Arduino-notas-musicales--Congratulations-Mac-Miller
+# Arduino-notas-musicales-Congratulations-MacMiller
 Publico un codigo de Arduino Uno de un fragmento musical de Congratulations, espero q les sirva de algo. 
 ## Componentes necesarios
 * 1x Placa Arduino (Uno, Nano, Mega, etc.)
